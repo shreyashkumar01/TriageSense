@@ -1,0 +1,22 @@
+{
+  "hospital_name": "Demo General Hospital (simulated)",
+  "jurisdiction": "US-HIPAA",
+  "expected_daily_visits": 220,
+  "confidence_threshold_normal": 0.70,
+  "confidence_threshold_surge": 0.80,
+  "surge_multiplier_trigger": 3.0,
+  "safe_wait_minutes": {
+    "1": 0,
+    "2": 10,
+    "3": 30,
+    "4": 60,
+    "5": 120
+  },
+  "reassessment_breach_multiplier": 1.5,
+  "data_retention": {
+    "raw_vitals_days": 30,
+    "audit_log_years": 7,
+    "training_export": "de-identified only, aggregated weekly"
+  },
+  "notes": "All thresholds are illustrative and must be clinically validated and approved by each hospital's medical director before deployment. This file is the single place a new hospital would edit to adapt the system to local staffing, case-mix and regulatory environment (scalability requirement)."
+}

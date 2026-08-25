@@ -1,0 +1,19 @@
+patient_id,name,age,sex,chief_complaint,arrival_mode,has_history,hr,rr,sbp,spo2,temp,avpu,pain_score,red_flags,arrival_time_min
+P01,J. Alvarez,68,M,"Sudden facial droop, slurred speech",ambulance,True,98,18,160,96,36.9,A,2,stroke_signs,0
+P02,S. Chen,58,M,"Crushing chest pain radiating to left arm, sweating",walk-in,True,110,24,90,94,37.0,A,9,crushing_chest_pain,5
+P03,Baby M. Ortiz,0.17,F,"Fever, unusually sleepy",ambulance,False,168,48,72,95,38.9,V,,infant_lethargy_fever,8
+P04,R. Singh,34,M,"Wheezing, cannot catch breath (known asthma)",walk-in,True,118,32,118,88,37.1,A,7,severe_resp_distress,12
+P05,T. Nguyen,2,F,"Fever and fussiness for 1 day",walk-in,True,150,34,88,97,38.6,A,,,20
+P06,M. Osei,40,M,"Abdominal pain, moderate",walk-in,False,95,17,122,98,37.0,A,6,,25
+P07,A. Fischer,45,F,"Vague chest discomfort, tightness",self-referred,True,88,16,128,97,36.8,A,8,,30
+P08,D. Park,24,M,"Twisted ankle playing basketball",walk-in,False,78,14,118,99,36.7,A,4,,35
+P09,L. Moreau,29,F,"Car accident, visible severe bleeding from leg",ambulance,False,132,28,84,93,36.5,A,8,severe_hemorrhage,3
+P10,W. Grant,55,M,"COPD flare, increasing breathlessness",walk-in,True,102,28,132,90,37.3,A,5,,15
+P11,E. Whitfield,78,F,"Mild confusion, generally unwell for 2 days",walk-in,True,102,22,98,93,37.6,V,3,,40
+P12,H. Alavi,50,F,"High fever, feeling faint",ambulance,True,128,26,88,91,39.5,A,6,,10
+P13,G. Kowalski,82,M,"Hip pain after a fall at home, stable",walk-in,True,88,18,138,96,36.9,A,6,,55
+P14,New Patient (Unnamed),71,M,"Generalized weakness, not himself",walk-in,False,104,20,102,95,,A,,,45
+P15,First Visit Guest,26,F,"Sore throat and cough for 2 days",walk-in,False,84,16,118,98,37.4,A,3,,60
+P16,B. Delgado,6,M,"Cut finger on a toy, minor bleeding stopped",walk-in,True,100,20,102,99,36.8,A,2,,50
+P17,C. Reyes,30,F,"Chest tightness, feels like a panic attack",walk-in,True,112,18,124,99,37.0,A,7,,22
+P18,F. Bianchi,33,M,"Migraine, moderate, known history",walk-in,True,76,15,120,98,36.9,A,5,,65
